@@ -25,5 +25,5 @@ A simple and intuitive currency calculator that allows users to convert amounts 
 ## 📫 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Your Name - Pratham Patel
+Name - Pratham Patel
 GitHub - prathamp18
