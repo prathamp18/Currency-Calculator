@@ -14,7 +14,7 @@ A simple and intuitive currency calculator that allows users to convert amounts 
 - **HTML**: Structure of the web application.
 - **CSS**: Styling and layout design.
 - **JavaScript**: Logic for fetching data and performing calculations.
-- **API**: Uses [Currency API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies) for real-time exchange rates.
+- **API**: Uses [Currency API] for real-time exchange rates and [Flags API] for changing the flag of country.
 
 ## 🖥️ Usage
 - Enter the amount you wish to convert.
