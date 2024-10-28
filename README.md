@@ -16,13 +16,13 @@ A simple and intuitive currency calculator that allows users to convert amounts 
 - **JavaScript**: Logic for fetching data and performing calculations.
 - **API**: Uses [Currency API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies) for real-time exchange rates.
 
-# 🖥️ Usage
+## 🖥️ Usage
 - Enter the amount you wish to convert.
 - Select the currency you want to convert from.
 - Select the currency you want to convert to.
 - Click the "Convert Rate" button to see the result!
 
-# 📫 Contact
+## 📫 Contact
 If you have any questions or feedback, feel free to reach out:
 
 Your Name - Pratham Patel
